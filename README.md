@@ -74,25 +74,29 @@ Developing bespoke technical scripts supporting energy design. Creating automate
 # 📈 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rauell1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true&title_color=0d9488&icon_color=0d9488"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rauell1"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact"/>
 </p>
 
 ---
 
 # 🏆 GitHub Trophies & Contributions
 
-<p align="center">
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rauell1&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rauell1&bg_color=ffffff&color=0d9488&line=0d9488&point=0d9488&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rauell1/rauell1/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
