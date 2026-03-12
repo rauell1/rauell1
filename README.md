@@ -69,16 +69,7 @@ Designing and deploying grid-tied and off-grid solar projects. Focused on "Produ
 ### 💻 Engineering Tools
 Developing bespoke technical scripts supporting energy design. Creating automated workflows for yield calculations, financial feasibility (LCOE), and real-time monitoring.
 
----
 
-# 📦 Key Projects
-
-<p align="center">
-<a href="https://github.com/rauell1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rauell1&repo=safari-charge-dashboard" />
-</a>
-</p>
- 
 ---
 
 # 📈 GitHub Dashboard
@@ -120,5 +111,5 @@ Developing bespoke technical scripts supporting energy design. Creating automate
 ---
 
 <p align="center">
-  <i>Engineered for a sustainable future.</i>
+⚡ Engineering the future of energy and electric mobility in Africa
 </p>
