@@ -23,6 +23,16 @@ My work lies at the critical intersection of **renewable energy systems and elec
 
 ---
 
+# 🚀 Currently Working On
+
+• Electric mobility charging infrastructure  
+• Solar powered energy systems  
+• Energy system optimization tools  
+• Engineering analytics for mobility and grid systems
+
+---
+---
+
 # 🎯 Core Focus Areas
 
 ⚡ **Electric Vehicle Charging Infrastructure:** Smart EV charging networks (CPMS) & dynamic load management  
