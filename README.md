@@ -90,12 +90,13 @@ Developing bespoke technical scripts supporting energy design. Creating automate
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
-- **Email:** [royokola3@gmail.com](mailto:royokola3@gmail.com)  
-- **X (Twitter):** [@rauell_](https://x.com/rauell_)  
-- **Location:** Nairobi, Kenya 🇰🇪  
-
+<p align="left">
+<a href="mailto:royokola3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://x.com/rauell_"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://github.com/rauell1"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
 ---
 
 <p align="center">
