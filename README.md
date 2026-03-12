@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-I am an **Agricultural and Biosystems Engineer** based in Nairobi, Kenya 🇰🇪—a rapidly growing hub for e-mobility and green energy innovation in East Africa.
+I am an **Agricultural and Biosystems Engineer** based in Nairobi, Kenya 🇰🇪-a rapidly growing hub for e-mobility and green energy innovation in East Africa.
 
 My work lies at the critical intersection of **renewable energy systems and electric mobility infrastructure**, applying core engineering principles to build robust, scalable, and environmentally sustainable physical systems.
 
