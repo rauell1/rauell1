@@ -86,15 +86,6 @@ Developing bespoke technical scripts supporting energy design. Creating automate
 
 # 🏆 GitHub Trophies & Contributions
 
-
-<p align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=rauell1&theme=flat&no-frame=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rauell1&theme=github&hide_border=true&area=true" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/rauell1/rauell1/output/github-contribution-grid-snake.svg" />
 </p>
