@@ -1,80 +1,90 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Roy Otieno</h1>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Roy Otieno</h1>
 <h3 align="center">Renewable Energy • Electric Mobility • Energy Systems Engineering</h3>
 
 <p align="center">
-Engineer focused on building sustainable energy and electric mobility infrastructure in Africa.
+Engineer building sustainable energy systems and electric mobility infrastructure in Africa.
 </p>
-
----
-
-## About Me
-
-I am an Agricultural and Biosystems Engineer working at the intersection of **renewable energy, electric mobility, and energy systems infrastructure**.
-
-My work focuses on designing and implementing solutions that support **sustainable transport, solar energy integration, and modern energy systems**.
-
----
-
-## Focus Areas
-
-- Electric Vehicle Charging Infrastructure
-- Solar Energy Systems and Solarization Projects
-- Energy Systems Engineering
-- Sustainable Mobility Systems
-- Engineering Tools and Technical Systems
-
----
-
-## Current Work
-
-- Developing solutions for **electric mobility infrastructure**
-- Designing **solar powered energy systems**
-- Building **engineering tools and technical systems**
-- Supporting the development of **energy systems for mobility**
-
----
-
-## Technical Skills
-
-### Engineering
-Renewable Energy Systems  
-Solar PV System Design  
-Energy Infrastructure  
-Water Pumping Systems  
-Energy System Optimization  
-
-### Technology
-Python  
-JavaScript  
-Next.js  
-Data Analysis  
-Git and GitHub  
-
----
-
-## Featured Projects
-
-### EV Charging Infrastructure
-Tools and systems supporting the deployment and operation of electric vehicle charging networks.
-
-### Energy Systems Engineering
-Projects focused on solar energy integration and energy system design.
-
-### Engineering Tools
-Software tools supporting energy engineering workflows.
-
----
-
-## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rauell&show_icons=true&theme=default"/>
+<img src="https://komarev.com/ghpvc/?username=rauell1&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## Contact
+# About Me
+
+- Renewable Energy & Electric Mobility Engineer  
+- Focused on solar energy systems and EV infrastructure  
+- Passionate about sustainable transport and energy innovation  
+- Based in Nairobi, Kenya  
+
+---
+
+# Focus Areas
+
+⚡ Electric Vehicle Charging Infrastructure  
+☀️ Solar Energy Systems  
+⚙️ Energy Systems Engineering  
+📊 Sustainable Mobility Data Systems  
+🔋 Energy Infrastructure Development  
+
+---
+
+# Tech Stack
+
+### Engineering
+![Solar](https://img.shields.io/badge/Solar-Energy-orange)
+![Energy Systems](https://img.shields.io/badge/Energy-Systems-blue)
+![EV Infrastructure](https://img.shields.io/badge/Electric-Mobility-green)
+
+### Software & Tools
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![NextJS](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+---
+
+# Featured Work
+
+### Electric Mobility Infrastructure
+Development of charging systems and infrastructure tools for electric vehicles.
+
+### Renewable Energy Systems
+Solar energy projects and system optimization.
+
+### Engineering Tools
+Technical tools supporting energy system design and analysis.
+
+---
+
+# GitHub Dashboard
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rauell1" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact" />
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rauell1&theme=github" />
+</p>
+
+---
+
+# Connect With Me
 
 Email: royokola3@gmail.com  
 Location: Nairobi, Kenya  
