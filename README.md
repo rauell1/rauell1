@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=180&section=header&text=Roy%20Otieno&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=800&lines=Hi+I'm+Roy+Otieno;Renewable+Energy+Engineer;Electric+Mobility+Infrastructure;Energy+Systems+Engineering" alt="Typing SVG" />
 </p>
 
