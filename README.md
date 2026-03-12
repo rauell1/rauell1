@@ -1,10 +1,9 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Roy Otieno</h1>
-<h3 align="center">Renewable Energy • Electric Mobility • Energy Systems Engineering</h3>
-
+<!-- Animated Intro -->
 <p align="center">
-Engineer building sustainable energy systems and electric mobility infrastructure in Africa.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+I'm+Roy+Otieno;Renewable+Energy+Engineer;Electric+Mobility+Infrastructure;Energy+Systems+Engineering" />
 </p>
+
+<h3 align="center">Building sustainable energy and electric mobility infrastructure</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rauell1&label=Profile%20views&color=0e75b6&style=flat" />
@@ -14,10 +13,11 @@ Engineer building sustainable energy systems and electric mobility infrastructur
 
 # About Me
 
-- Renewable Energy & Electric Mobility Engineer  
-- Focused on solar energy systems and EV infrastructure  
-- Passionate about sustainable transport and energy innovation  
-- Based in Nairobi, Kenya  
+I am an Agricultural and Biosystems Engineer focused on **renewable energy systems and electric mobility infrastructure**.
+
+My work lies at the intersection of **energy engineering, solar systems, and sustainable mobility**, developing solutions that support modern energy infrastructure and the transition to electric transport.
+
+Location: Nairobi, Kenya
 
 ---
 
@@ -33,45 +33,51 @@ Engineer building sustainable energy systems and electric mobility infrastructur
 
 # Tech Stack
 
-### Engineering
-![Solar](https://img.shields.io/badge/Solar-Energy-orange)
-![Energy Systems](https://img.shields.io/badge/Energy-Systems-blue)
-![EV Infrastructure](https://img.shields.io/badge/Electric-Mobility-green)
+<p align="center">
 
-### Software & Tools
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![NextJS](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![Git](https://img.shields.io/badge/Git-red?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+<img src="https://skillicons.dev/icons?i=python,js,nextjs,git,github,vscode"/>
+
+</p>
+
+---
+
+# Engineering Domains
+
+Renewable Energy Systems  
+Solar PV System Design  
+Energy Infrastructure  
+Water Pumping Systems  
+Energy System Optimization  
 
 ---
 
 # Featured Work
 
 ### Electric Mobility Infrastructure
-Development of charging systems and infrastructure tools for electric vehicles.
+Engineering systems supporting EV charging networks and mobility infrastructure.
 
 ### Renewable Energy Systems
-Solar energy projects and system optimization.
+Solar energy integration projects and system optimization.
 
 ### Engineering Tools
-Technical tools supporting energy system design and analysis.
+Technical tools supporting energy engineering and mobility systems.
 
 ---
 
 # GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true&theme=default" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rauell1"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rauell1" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact"/>
+
 </p>
 
 ---
@@ -79,7 +85,19 @@ Technical tools supporting energy system design and analysis.
 # Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rauell1&theme=github" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rauell1&theme=github"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rauell1"/>
+
 </p>
 
 ---
@@ -89,6 +107,12 @@ Technical tools supporting energy system design and analysis.
 Email: royokola3@gmail.com  
 Location: Nairobi, Kenya  
 X: https://x.com/rauell_
+
+---
+
+# Contribution Snake
+
+![snake gif](https://github.com/rauell1/rauell1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
