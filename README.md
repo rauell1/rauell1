@@ -71,6 +71,16 @@ Developing bespoke technical scripts supporting energy design. Creating automate
 
 ---
 
+# 📦 Key Projects
+
+<p align="center">
+<a href="https://github.com/rauell1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rauell1&repo=safari-charge-dashboard" />
+</a>
+</p>
+ 
+---
+
 # 📈 GitHub Dashboard
 
 <p align="center">
