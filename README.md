@@ -31,7 +31,6 @@ My work lies at the critical intersection of **renewable energy systems and elec
 • Engineering analytics for mobility and grid systems
 
 ---
----
 
 # 🎯 Core Focus Areas
 
