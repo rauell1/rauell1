@@ -73,6 +73,8 @@ Developing bespoke technical scripts supporting energy design. Creating automate
 
 # 📈 GitHub Dashboard
 
+> **Streak accuracy note:** The streak badge pulls from a third-party service that caches data and may use a different timezone than GitHub. If you see a mismatch, trust the streak shown on your GitHub profile as the source of truth.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true&title_color=0d9488&icon_color=0d9488"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rauell1"/>
