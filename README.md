@@ -20,9 +20,9 @@
 
 ## 👨‍💻 About Me
 
-I am an **Agricultural and Biosystems Engineer** based in **Nairobi, Kenya** 🇰🇪 — one of East Africa's fastest-growing hubs for e-mobility and clean energy innovation.
+I am an **Agricultural and Biosystems Engineer** based in **Nairobi, Kenya** 🇰🇪 - one of East Africa's fastest-growing hubs for e-mobility and clean energy innovation.
 
-My work sits at the intersection of **renewable energy systems** and **electric mobility infrastructure** — applying rigorous engineering principles to build solutions that are robust, scalable, and ecologically sound. At **SafariCharge**, I focus on bridging the gap between legacy power grids and the demands of modern energy infrastructure, designing systems that are both economically viable and future-proof.
+My work sits at the intersection of **renewable energy systems** and **electric mobility infrastructure** - applying rigorous engineering principles to build solutions that are robust, scalable, and ecologically sound. At **SafariCharge**, I focus on bridging the gap between legacy power grids and the demands of modern energy infrastructure, designing systems that are both economically viable and future-proof.
 
 ---
 
@@ -68,41 +68,21 @@ My work sits at the intersection of **renewable energy systems** and **electric 
 ## 💼 Featured Work
 
 ### 🔌 Electric Mobility Infrastructure
-Engineering integrated systems for large-scale EV charging networks — from feasibility studies and power distribution architectures to real-time telemetry that monitors charger uptime and grid load.
+Engineering integrated systems for large-scale EV charging networks - from feasibility studies and power distribution architectures to real-time telemetry that monitors charger uptime and grid load.
 
 ### ☀️ Renewable Energy Systems
-Designing and deploying grid-tied and off-grid solar projects. A key focus is *Productive Use of Energy* — optimized solar water pumping solutions that directly improve agricultural productivity and rural livelihoods.
+Designing and deploying grid-tied and off-grid solar projects. A key focus is *Productive Use of Energy* - optimized solar water pumping solutions that directly improve agricultural productivity and rural livelihoods.
 
 ### 💻 Engineering Automation Tools
-Building bespoke technical tools and automated workflows for solar yield calculations, LCOE financial modelling, and real-time system monitoring — turning raw engineering data into actionable insights.
+Building bespoke technical tools and automated workflows for solar yield calculations, LCOE financial modelling, and real-time system monitoring - turning raw engineering data into actionable insights.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true&theme=default&title_color=0d9488&icon_color=0d9488&hide_border=true" height="160" alt="Roy's GitHub Stats"/>
+  
   <img src="https://streak-stats.demolab.com/?user=rauell1&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" height="160" alt="Roy's GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact&theme=default&title_color=0d9488&hide_border=true" height="140" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rauell1&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rauell1&bg_color=ffffff&color=0d9488&line=0d9488&point=0c4e54&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -117,11 +97,12 @@ Building bespoke technical tools and automated workflows for solar yield calcula
 
 ## 🌐 Connect
 
-<p align="left">
-  <a href="https://roy-otieno.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0d9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:royokola3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d9488?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/rauell_"><img src="https://img.shields.io/badge/Twitter-Follow-0d9488?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://github.com/rauell1"><img src="https://img.shields.io/badge/GitHub-rauell1-0d9488?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+  <a href="https://roy-otieno.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0d9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:royokola3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/roy-otieno-60b190174/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Profile-0d9488?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/rauell_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-Follow-0d9488?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://github.com/rauell1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-rauell1-0d9488?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
