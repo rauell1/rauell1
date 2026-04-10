@@ -1,109 +1,107 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=180&section=header&text=Roy%20Otieno&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=Roy%20Otieno&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Renewable%20Energy%20%26%20Electric%20Mobility%20Engineer&descSize=18&descAlignY=75" />
 </p>
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=800&lines=Hi+I'm+Roy+Otieno;Renewable+Energy+Engineer;Electric+Mobility+Infrastructure;Energy+Systems+Engineering" alt="Typing SVG" />
-</p>
-
-<h3 align="center">Building sustainable energy and electric mobility infrastructure in Africa 🌍</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rauell1&label=Profile%20views&color=0d9488&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=750&lines=Renewable+Energy+Systems+Engineer;Electric+Mobility+Infrastructure+%7C+EV+Charging;Solar+PV+Design+%26+Grid+Integration;Building+Sustainable+Energy+in+Africa+%F0%9F%8C%8D" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://roy-otieno.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-roy--otieno.vercel.app-0d9488?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:royokola3@gmail.com"><img src="https://img.shields.io/badge/Email-royokola3@gmail.com-0d9488?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/rauell_"><img src="https://img.shields.io/badge/Twitter-@rauell__-0d9488?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://github.com/rauell1"><img src="https://img.shields.io/badge/GitHub-rauell1-0d9488?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rauell1&label=Profile+Views&color=0d9488&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am an **Agricultural and Biosystems Engineer** based in Nairobi, Kenya 🇰🇪-a rapidly growing hub for e-mobility and green energy innovation in East Africa.
+I am an **Agricultural and Biosystems Engineer** based in **Nairobi, Kenya** 🇰🇪 — one of East Africa's fastest-growing hubs for e-mobility and clean energy innovation.
 
-My work lies at the critical intersection of **renewable energy systems and electric mobility infrastructure**, applying core engineering principles to build robust, scalable, and environmentally sustainable physical systems.
-
-**My Mission:** Developing innovative solutions that bridge the gap between legacy power grids and modern energy infrastructure. My goal is to facilitate a seamless transition to electric transport and renewable power generation by building systems that are both economically viable and ecologically sound.
+My work sits at the intersection of **renewable energy systems** and **electric mobility infrastructure** — applying rigorous engineering principles to build solutions that are robust, scalable, and ecologically sound. At **SafariCharge**, I focus on bridging the gap between legacy power grids and the demands of modern energy infrastructure, designing systems that are both economically viable and future-proof.
 
 ---
 
-# 🚀 Currently Working On
+## 🎯 Core Focus Areas
 
-• Electric mobility charging infrastructure  
-• Solar powered energy systems  
-• Energy system optimization tools  
-• Engineering analytics for mobility and grid systems
-
----
-
-# 🎯 Core Focus Areas
-
-⚡ **Electric Vehicle Charging Infrastructure:** Smart EV charging networks (CPMS) & dynamic load management  
-☀️ **Solar Energy Systems:** End-to-end solar energy integration & PV System Design  
-⚙️ **Energy Systems Engineering:** Single-line diagrams, cable sizing, protective device coordination, & energy auditing  
-🌾 **Productive Use of Energy:** Solar Water Pumping to increase agricultural yields  
-📊 **Sustainable Mobility Data Systems:** Architecting data pipelines for grid reliability and telemetry  
+| Domain | Scope |
+|---|---|
+| ⚡ **EV Charging Infrastructure** | Smart CPMS networks, dynamic load management, OCPP integration |
+| ☀️ **Solar PV Systems** | End-to-end design, grid-tied & off-grid, PVsyst / Homer Pro |
+| ⚙️ **Energy Systems Engineering** | Single-line diagrams, cable sizing, protection coordination, energy audits |
+| 🌾 **Productive Use of Energy** | Solar water pumping systems for agricultural yield improvement |
+| 📊 **Mobility Data Systems** | Data pipelines for grid reliability, charger telemetry & uptime monitoring |
 
 ---
 
-# 🛠️ Tech Stack & Tools
+## 🚀 Currently Working On
+
+- Deploying and optimizing **EV charging station networks** across Nairobi
+- Designing **grid-tied solar PV systems** for commercial and industrial clients
+- Building **engineering analytics tools** for energy yield and financial feasibility (LCOE)
+- Developing **data pipelines** for real-time grid and mobility telemetry
+
+---
+
+## 🛠️ Tech Stack
 
 ### Software & Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,nextjs,git,github,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,nextjs,git,github,vscode" alt="Dev Stack" />
 </p>
-*Data & Analytics: Pandas, NumPy, SQL*
 
-### Engineering Infrastructure
-![Solar](https://img.shields.io/badge/Solar_Energy-PVsyst_|_Homer_Pro-orange)
-![Design](https://img.shields.io/badge/Design-AutoCAD_|_SketchUp-blue)
-![EV](https://img.shields.io/badge/EV_Infrastructure-OCPP_|_EVSE-green)
+`Pandas` &nbsp; `NumPy` &nbsp; `SQL` &nbsp; `REST APIs`
+
+### Engineering Tools
+
+![Solar](https://img.shields.io/badge/Solar_Design-PVsyst_%7C_Homer_Pro-orange?style=flat-square)
+![CAD](https://img.shields.io/badge/CAD-AutoCAD_%7C_SketchUp-blue?style=flat-square)
+![EV](https://img.shields.io/badge/EV_Infrastructure-OCPP_%7C_EVSE-0d9488?style=flat-square)
+![Standards](https://img.shields.io/badge/Standards-IEC_%7C_IEEE_%7C_KEBS-grey?style=flat-square)
 
 ---
 
-# 💼 Featured Work
+## 💼 Featured Work
 
 ### 🔌 Electric Mobility Infrastructure
-Engineering integrated systems supporting large-scale EV charging networks. Includes feasibility studies, power distribution architectures, and integrating telemetry data to monitor charger uptime.
+Engineering integrated systems for large-scale EV charging networks — from feasibility studies and power distribution architectures to real-time telemetry that monitors charger uptime and grid load.
 
 ### ☀️ Renewable Energy Systems
-Designing and deploying grid-tied and off-grid solar projects. Focused on "Productive Use of Energy" via optimized solar water pumping systems that increase agricultural yields.
+Designing and deploying grid-tied and off-grid solar projects. A key focus is *Productive Use of Energy* — optimized solar water pumping solutions that directly improve agricultural productivity and rural livelihoods.
 
-### 💻 Engineering Tools
-Developing bespoke technical scripts supporting energy design. Creating automated workflows for yield calculations, financial feasibility (LCOE), and real-time monitoring.
-
-
----
-
-# 📈 GitHub Dashboard
-
-> **Streak accuracy note:** The streak badge pulls from a third-party service that caches data and may use a different timezone than GitHub. If you see a mismatch, trust the streak shown on your GitHub profile as the source of truth.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true&title_color=0d9488&icon_color=0d9488"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rauell1"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact"/>
-</p>
+### 💻 Engineering Automation Tools
+Building bespoke technical tools and automated workflows for solar yield calculations, LCOE financial modelling, and real-time system monitoring — turning raw engineering data into actionable insights.
 
 ---
 
-# 🏆 GitHub Trophies & Contributions
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true&theme=default&title_color=0d9488&icon_color=0d9488&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rauell1&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact&title_color=0d9488&hide_border=true" height="140"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rauell1/rauell1/output/github-contribution-grid-snake.svg" />
 </p>
 
-
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="left">
-<a href="mailto:royokola3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-<a href="https://x.com/rauell_"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://github.com/rauell1"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://roy-otieno.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0d9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:royokola3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d9488?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/rauell_"><img src="https://img.shields.io/badge/Twitter-Follow-0d9488?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://github.com/rauell1"><img src="https://img.shields.io/badge/GitHub-rauell1-0d9488?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
----
 
 <p align="center">
-⚡ Engineering the future of energy and electric mobility in Africa
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=100&section=footer" />
 </p>
