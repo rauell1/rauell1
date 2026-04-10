@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=Roy%20Otieno&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Renewable%20Energy%20%26%20Electric%20Mobility%20Engineer&descSize=18&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=Roy%20Otieno&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=750&lines=Renewable+Energy+Systems+Engineer;Electric+Mobility+Infrastructure+%7C+EV+Charging;Solar+PV+Design+%26+Grid+Integration;Building+Sustainable+Energy+in+Africa+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=750&lines=Renewable+Energy+Systems+Engineer;Electric+Mobility+Infrastructure+%7C+EV+Charging;Solar+PV+Design+%26+Grid+Integration;Building+Sustainable+Energy+in+Africa" alt="Typing SVG" />
 </p>
+
+<h3 align="center">Engineering sustainable energy and electric mobility infrastructure in Africa 🌍</h3>
 
 <p align="center">
   <a href="https://roy-otieno.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-roy--otieno.vercel.app-0d9488?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -56,10 +58,10 @@ My work sits at the intersection of **renewable energy systems** and **electric 
 
 ### Engineering Tools
 
-![Solar](https://img.shields.io/badge/Solar_Design-PVsyst_%7C_Homer_Pro-orange?style=flat-square)
-![CAD](https://img.shields.io/badge/CAD-AutoCAD_%7C_SketchUp-blue?style=flat-square)
+![Solar](https://img.shields.io/badge/Solar_Design-PVsyst_%7C_Homer_Pro-FF6B00?style=flat-square)
+![CAD](https://img.shields.io/badge/CAD-AutoCAD_%7C_SketchUp-0078D4?style=flat-square)
 ![EV](https://img.shields.io/badge/EV_Infrastructure-OCPP_%7C_EVSE-0d9488?style=flat-square)
-![Standards](https://img.shields.io/badge/Standards-IEC_%7C_IEEE_%7C_KEBS-grey?style=flat-square)
+![Standards](https://img.shields.io/badge/Standards-IEC_%7C_IEEE_%7C_KEBS-555555?style=flat-square)
 
 ---
 
@@ -79,16 +81,36 @@ Building bespoke technical tools and automated workflows for solar yield calcula
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true&theme=default&title_color=0d9488&icon_color=0d9488&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rauell1&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rauell1&show_icons=true&theme=default&title_color=0d9488&icon_color=0d9488&hide_border=true" height="160" alt="Roy's GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=rauell1&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" height="160" alt="Roy's GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact&title_color=0d9488&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact&theme=default&title_color=0d9488&hide_border=true" height="140" alt="Top Languages"/>
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rauell1/rauell1/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rauell1&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rauell1&bg_color=ffffff&color=0d9488&line=0d9488&point=0c4e54&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rauell1/rauell1/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
