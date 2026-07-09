@@ -20,16 +20,18 @@
 
 ## 👨‍💻 About Me
 
-I am an **Agricultural and Biosystems Engineer** based in **Nairobi, Kenya** 🇰🇪 - one of East Africa's fastest-growing hubs for e-mobility and clean energy innovation.
+> I am an **Agricultural and Biosystems Engineer** based in **Nairobi, Kenya** 🇰🇪 — one of East Africa's fastest-growing hubs for e-mobility and clean energy innovation.
 
-My work sits at the intersection of **renewable energy systems** and **electric mobility infrastructure** - applying rigorous engineering principles to build solutions that are robust, scalable, and ecologically sound. At **SafariCharge**, I focus on bridging the gap between legacy power grids and the demands of modern energy infrastructure, designing systems that are both economically viable and future-proof.
+My work sits at the intersection of **renewable energy systems** and **electric mobility infrastructure** — applying rigorous engineering principles to build solutions that are robust, scalable, and ecologically sound. 
+
+At **SafariCharge**, I focus on bridging the gap between legacy power grids and the demands of modern energy infrastructure, designing systems that are both economically viable and future-proof.
 
 ---
 
 ## 🎯 Core Focus Areas
 
-| Domain | Scope |
-|---|---|
+| Domain | Technical Scope & Technologies |
+| :--- | :--- |
 | ⚡ **EV Charging Infrastructure** | Smart CPMS networks, dynamic load management, OCPP integration |
 | ☀️ **Solar PV Systems** | End-to-end design, grid-tied & off-grid, PVsyst / Homer Pro |
 | ⚙️ **Energy Systems Engineering** | Single-line diagrams, cable sizing, protection coordination, energy audits |
@@ -40,50 +42,66 @@ My work sits at the intersection of **renewable energy systems** and **electric 
 
 ## 🚀 Currently Working On
 
-- Deploying and optimizing **EV charging station networks** across Nairobi
-- Designing **grid-tied solar PV systems** for commercial and industrial clients
-- Building **engineering analytics tools** for energy yield and financial feasibility (LCOE)
-- Developing **data pipelines** for real-time grid and mobility telemetry
+- 🔌 **Grid Integration** — Deploying and optimizing EV charging station networks across Nairobi.
+- ☀️ **C&I Solar** — Designing grid-tied solar PV systems for commercial and industrial clients.
+- 📊 **Feasibility & Yield** — Building engineering analytics tools for energy yield and LCOE financial modeling.
+- ⚡ **Telemetry** — Developing telemetry pipelines for real-time grid and charger performance monitoring.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Software & Development
+### 💻 Software & Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,nextjs,git,github,vscode" alt="Dev Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,nextjs,tailwind,git,github,vscode,postgres,mysql" />
+  </a>
 </p>
 
-`Pandas` &nbsp; `NumPy` &nbsp; `SQL` &nbsp; `REST APIs`
+`Pandas` &nbsp;•&nbsp; `NumPy` &nbsp;•&nbsp; `SQL` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Data Telemetry`
 
-### Engineering Tools
+### ⚙️ Engineering Tools & Standards
 
-![Solar](https://img.shields.io/badge/Solar_Design-PVsyst_%7C_Homer_Pro-FF6B00?style=flat-square)
-![CAD](https://img.shields.io/badge/CAD-AutoCAD_%7C_SketchUp-0078D4?style=flat-square)
-![EV](https://img.shields.io/badge/EV_Infrastructure-OCPP_%7C_EVSE-0d9488?style=flat-square)
-![Standards](https://img.shields.io/badge/Standards-IEC_%7C_IEEE_%7C_KEBS-555555?style=flat-square)
+| Field | Tools & Standards |
+| :--- | :--- |
+| **Solar Design** | `PVsyst` &nbsp;•&nbsp; `Homer Pro` |
+| **CAD & Modeling** | `AutoCAD` &nbsp;•&nbsp; `SketchUp` |
+| **EV Infrastructure** | `OCPP` &nbsp;•&nbsp; `EVSE` |
+| **Standards** | `IEC` &nbsp;•&nbsp; `IEEE` &nbsp;•&nbsp; `KEBS` |
 
 ---
 
 ## 💼 Featured Work
 
-### 🔌 Electric Mobility Infrastructure
-Engineering integrated systems for large-scale EV charging networks - from feasibility studies and power distribution architectures to real-time telemetry that monitors charger uptime and grid load.
+> ### 🔌 Electric Mobility Infrastructure
+> Engineering integrated systems for large-scale EV charging networks — from feasibility studies and power distribution architectures to real-time telemetry that monitors charger uptime and grid load.
+>
+> *Key Focus: CPMS, OCPP Integration, Load Management*
 
-### ☀️ Renewable Energy Systems
-Designing and deploying grid-tied and off-grid solar projects. A key focus is *Productive Use of Energy* - optimized solar water pumping solutions that directly improve agricultural productivity and rural livelihoods.
+> ### ☀️ Renewable Energy Systems
+> Designing and deploying grid-tied and off-grid solar projects. A key focus is **Productive Use of Energy (PUE)** — optimized solar water pumping solutions that directly improve agricultural productivity and rural livelihoods.
+>
+> *Key Focus: Solar PV Design, Agricultural Irrigation, Off-Grid Feasibility*
 
-### 💻 Engineering Automation Tools
-Building bespoke technical tools and automated workflows for solar yield calculations, LCOE financial modelling, and real-time system monitoring - turning raw engineering data into actionable insights.
+> ### ⚙️ Engineering Automation & Analytics
+> Building bespoke technical tools and automated workflows for solar yield calculations, LCOE financial modeling, and real-time system monitoring — turning raw engineering data into actionable insights.
+>
+> *Key Focus: Analytics Pipelines, Data Visualization, Feasibility Modeling*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
-<p align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=rauell1&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" height="160" alt="Roy's GitHub Streak"/>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact&langs_count=6&theme=transparent&title_color=0d9488&text_color=8b949e&icon_color=0d9488&hide_border=true" height="165" alt="Top Languages" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=rauell1&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&background=00000000" height="165" alt="Roy's GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,7 +113,7 @@ Building bespoke technical tools and automated workflows for solar yield calcula
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://roy-otieno.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0d9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
