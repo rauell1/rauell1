@@ -95,7 +95,7 @@ At **SafariCharge**, I focus on bridging the gap between legacy power grids and 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauell1&layout=compact&langs_count=6&theme=transparent&title_color=0d9488&text_color=8b949e&icon_color=0d9488&hide_border=true" height="165" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rauell1&layout=compact&langs_count=6&theme=transparent&title_color=0d9488&icon_color=0d9488&text_color=8b949e&hide_border=true" height="165" alt="Top Languages" />
     </td>
     <td align="center" valign="top">
       <img src="https://streak-stats.demolab.com/?user=rauell1&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&background=00000000" height="165" alt="Roy's GitHub Streak"/>
