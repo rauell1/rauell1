@@ -9,7 +9,7 @@
 <h3 align="center">Engineering sustainable energy and electric mobility infrastructure in Africa 🌍</h3>
 
 <p align="center">
-  <a href="https://roy-otieno.vercel.app/"><img src="[https://img.shields.io/badge/Portfolio-roy--otieno.vercel.app-0d9488?style=flat-square&logo=vercel&logoColor=white](https://roy-otieno.vercel.app/)"/></a>
+  <a href="https://royokola.me/"><img src="https://img.shields.io/badge/Portfolio-royokola.me-0d9488?style=flat-square&logo=vercel&logoColor=white"/></a>
   <a href="mailto:royokola3@gmail.com"><img src="https://img.shields.io/badge/Email-royokola3@gmail.com-0d9488?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/rauell_"><img src="https://img.shields.io/badge/Twitter-@rauell__-0d9488?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="https://github.com/rauell1"><img src="https://img.shields.io/badge/GitHub-rauell1-0d9488?style=flat-square&logo=github&logoColor=white"/></a>
@@ -116,7 +116,7 @@ At **SafariCharge**, I focus on bridging the gap between legacy power grids and 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://roy-otieno.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0d9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://royokola.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0d9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:royokola3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/roy-otieno-60b190174/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Profile-0d9488?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/rauell_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-Follow-0d9488?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
