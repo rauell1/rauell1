@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=750&lines=Renewable+Energy+Systems+Engineer;Electric+Mobility+Infrastructure+%7C+EV+Charging;Solar+PV+Design+%26+Grid+Integration;Building+Sustainable+Energy+in+Africa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=850&lines=Renewable+Energy+Systems+Engineer;EV+Charging+Infrastructure+Lead;Solar+PV+Design+and+Grid+Integration;Energy+Analytics+and+Automation+Builder" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Engineering sustainable energy and electric mobility infrastructure in Africa 🌍</h3>
+<h3 align="center">Building practical clean energy and electric mobility systems in Africa 🌍</h3>
 
 <p align="center">
   <a href="https://royokola.me/"><img src="https://img.shields.io/badge/Portfolio-royokola.me-0d9488?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -20,77 +20,81 @@
 
 ## 👨‍💻 About Me
 
-> I am an **Agricultural and Biosystems Engineer** based in **Nairobi, Kenya** 🇰🇪 — one of East Africa's fastest-growing hubs for e-mobility and clean energy innovation.
+I am an Agricultural and Biosystems Engineer based in Nairobi, Kenya 🇰🇪.
 
-My work sits at the intersection of **renewable energy systems** and **electric mobility infrastructure** — applying rigorous engineering principles to build solutions that are robust, scalable, and ecologically sound. 
+My work combines renewable energy engineering, electric mobility infrastructure, and data driven operations. I focus on turning technical plans into systems that run reliably in real conditions.
 
-At **SafariCharge**, I focus on bridging the gap between legacy power grids and the demands of modern energy infrastructure, designing systems that are both economically viable and future-proof.
+At SafariCharge, I work across planning, design, deployment, and optimization of EV charging and power systems for growing urban and commercial demand.
 
 ---
 
-## 🎯 Core Focus Areas
+## 🚀 Recent Projects
 
-| Domain | Technical Scope & Technologies |
+### 1) Nairobi EV Charging Rollout
+- Planned multi site charger deployments with load balancing and phased grid upgrades.
+- Built commissioning and operations workflow for charger uptime and response handling.
+- Improved handoff quality between engineering and field teams.
+
+### 2) Commercial and Industrial Solar Design Suite
+- Produced grid tied PV designs with yield modeling and financial sensitivity checks.
+- Standardized cable sizing, inverter matching, and protection selection inputs.
+- Reduced early stage redesign cycles through repeatable templates.
+
+### 3) Productive Use of Energy for Irrigation
+- Designed solar water pumping layouts for agricultural productivity improvement.
+- Compared storage and direct drive configurations across seasonal demand profiles.
+- Aligned pump sizing with site specific crop and water constraints.
+
+### 4) Charging Telemetry and Reliability Dashboarding
+- Built telemetry pipelines for charger status, power draw, and availability metrics.
+- Structured alert logic for fault patterns and low utilization windows.
+- Enabled faster diagnostics through clearer operational views.
+
+---
+
+## 🎯 What I Build
+
+| Area | Delivery Focus |
 | :--- | :--- |
-| ⚡ **EV Charging Infrastructure** | Smart CPMS networks, dynamic load management, OCPP integration |
-| ☀️ **Solar PV Systems** | End-to-end design, grid-tied & off-grid, PVsyst / Homer Pro |
-| ⚙️ **Energy Systems Engineering** | Single-line diagrams, cable sizing, protection coordination, energy audits |
-| 🌾 **Productive Use of Energy** | Solar water pumping systems for agricultural yield improvement |
-| 📊 **Mobility Data Systems** | Data pipelines for grid reliability, charger telemetry & uptime monitoring |
-
----
-
-## 🚀 Currently Working On
-
-- 🔌 **Grid Integration** — Deploying and optimizing EV charging station networks across Nairobi.
-- ☀️ **C&I Solar** — Designing grid-tied solar PV systems for commercial and industrial clients.
-- 📊 **Feasibility & Yield** — Building engineering analytics tools for energy yield and LCOE financial modeling.
-- ⚡ **Telemetry** — Developing telemetry pipelines for real-time grid and charger performance monitoring.
+| ⚡ EV Infrastructure | Site design, load management, CPMS and OCPP integration |
+| ☀️ Solar PV Systems | Grid tied and off grid design, simulation, optimization |
+| 📊 Energy Analytics | Feasibility models, yield forecasting, performance tracking |
+| 🌾 Productive Use of Energy | Solar pumping design for agriculture and rural systems |
+| ⚙️ Technical Workflows | Engineering templates, QA checks, and deployment playbooks |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Software & Development
+### 💻 Software and Development
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,nextjs,tailwind,git,github,vscode,postgres,mysql" />
   </a>
 </p>
 
-`Pandas` &nbsp;•&nbsp; `NumPy` &nbsp;•&nbsp; `SQL` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Data Telemetry`
+`Pandas` • `NumPy` • `SQL` • `REST APIs` • `Data Telemetry`
 
-### ⚙️ Engineering Tools & Standards
+### ⚙️ Engineering Tools and Standards
 
-| Field | Tools & Standards |
+| Field | Tools and Standards |
 | :--- | :--- |
-| **Solar Design** | `PVsyst` &nbsp;•&nbsp; `Homer Pro` |
-| **CAD & Modeling** | `AutoCAD` &nbsp;•&nbsp; `SketchUp` |
-| **EV Infrastructure** | `OCPP` &nbsp;•&nbsp; `EVSE` |
-| **Standards** | `IEC` &nbsp;•&nbsp; `IEEE` &nbsp;•&nbsp; `KEBS` |
+| Solar Design | `PVsyst` • `Homer Pro` |
+| CAD and Modeling | `AutoCAD` • `SketchUp` |
+| EV Infrastructure | `OCPP` • `EVSE` |
+| Standards | `IEC` • `IEEE` • `KEBS` |
 
 ---
 
-## 💼 Featured Work
+## 📈 Delivery Highlights
 
-> ### 🔌 Electric Mobility Infrastructure
-> Engineering integrated systems for large-scale EV charging networks — from feasibility studies and power distribution architectures to real-time telemetry that monitors charger uptime and grid load.
->
-> *Key Focus: CPMS, OCPP Integration, Load Management*
-
-> ### ☀️ Renewable Energy Systems
-> Designing and deploying grid-tied and off-grid solar projects. A key focus is **Productive Use of Energy (PUE)** — optimized solar water pumping solutions that directly improve agricultural productivity and rural livelihoods.
->
-> *Key Focus: Solar PV Design, Agricultural Irrigation, Off-Grid Feasibility*
-
-> ### ⚙️ Engineering Automation & Analytics
-> Building bespoke technical tools and automated workflows for solar yield calculations, LCOE financial modeling, and real-time system monitoring — turning raw engineering data into actionable insights.
->
-> *Key Focus: Analytics Pipelines, Data Visualization, Feasibility Modeling*
+- Commissioning focused engineering for EV charging reliability
+- Data backed feasibility workflows for solar and mobility projects
+- Cross functional execution from site survey to operating system
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Stats and Visualizations
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
