@@ -19,24 +19,27 @@
 
 ### 👋 Hi, I'm Roy
 
-At **Roam Electric** I find, qualify and secure sites for EV charging and battery swap, from the first site visit to switch-on. Through **[Rauell Systems](https://rauell.systems)** I build the decision software that models them.
+I'm an e-mobility and clean energy engineer in Nairobi, and the founder of **[Rauell Systems](https://rauell.systems)**.
 
-The pattern in my work is always the same: take an unproven market, build the method, then deliver it with partners. Infrastructure is won or lost with the host, the utility and the regulator, so I spend as much time aligning landlords, fleet operators, KPLC, EPRA and EMAK as I do in spreadsheets and code. Then I build the tooling, so that siting and investment calls rest on data rather than instinct.
+Africa is building its energy and mobility infrastructure right now, and most of the big calls are still made on gut feel: where a charger should go, how big a solar and battery system should be, whether a tender is fair value. I build the software that turns those calls into decisions you can defend.
+
+Rauell Systems runs on one rule: **calculate first, reason second, and leave the decision with a person.** Deterministic engineering and financial models do the maths, AI reads the documents and explains the results, and a human signs off. I also design, build and run the web platforms that organisations across Kenya rely on every day.
 
 <table>
   <tr>
-    <td align="center"><h2>74</h2><sub>Charging sites in pipeline<br/>since Jan 2026</sub></td>
-    <td align="center"><h2>22</h2><sub>Sites secured<br/>for construction</sub></td>
-    <td align="center"><h2>KES 50M+</h2><sub>Potential investment<br/>supported (EVChaja)</sub></td>
     <td align="center"><h2>20</h2><sub>Live platforms I build<br/>and run</sub></td>
+    <td align="center"><h2>6</h2><sub>Products shipped under<br/>Rauell Systems</sub></td>
+    <td align="center"><h2>47</h2><sub>Kenyan counties reached<br/>by platforms I run</sub></td>
+    <td align="center"><h2>3+ yrs</h2><sub>In clean energy<br/>and e-mobility</sub></td>
   </tr>
 </table>
 
 ### 🔭 Right now
 
-- ⚡ **Charging Expansion Lead, Roam Electric.** Building Nairobi's charging and battery swap network: 74 prospective sites (29 personally sourced), 38 advanced to approval, 22 secured for construction, including a 7-station rollout with Be Energy.
-- 🧠 **Founder, Rauell Systems.** AI decision systems for African infrastructure and knowledge work, on one rule: calculate first, reason second, and leave the decision with a person.
-- 🎓 **MBA candidate, University of East London.** Adding commercial and financial depth to an engineering background (BSc Agricultural and Biosystems Engineering, JKUAT).
+- 🧠 **Building Rauell Systems.** Decision intelligence for distributed energy, procurement and learning: StimaPulse, BeiSawa and the Rauell AI Academy, all live.
+- ⚡ **Making energy planning defensible.** StimaPulse takes a site from raw documents to a costed solar, battery and EV charging decision with NPV, IRR and LCOE, ready to present.
+- 🌍 **Shipping for organisations across Kenya.** Fast, secure platforms on Cloudflare Workers for youth movements, engineering firms, clean energy companies and professionals.
+- 🎓 **MBA candidate.** Adding commercial and financial depth to an engineering background.
 
 ---
 
