@@ -1,168 +1,126 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=Roy%20Otieno&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0d9488&height=210&section=header&text=Roy%20Okola%20Otieno&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=E-mobility%20%C2%B7%20Clean%20Energy%20%C2%B7%20AI%20Decision%20Systems&descAlignY=72&descSize=18" alt="Roy Okola Otieno" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=850&lines=Renewable+Energy+Systems+Engineer;EV+Charging+Infrastructure+Lead;Solar+PV+Design+and+Grid+Integration;Energy+Analytics+and+Automation+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=860&lines=Charging+Expansion+Lead+%40+Roam+Electric;Founder+%40+Rauell+Systems;Calculate+first.+Reason+second.+People+decide.;Building+where+there+is+no+playbook" alt="Typing summary" />
 </p>
-
-<h3 align="center">Building practical clean energy and electric mobility systems in Africa 🌍</h3>
 
 <p align="center">
-  <a href="https://royokola.me/"><img src="https://img.shields.io/badge/Portfolio-royokola.me-0d9488?style=flat-square&logo=cloudflare&logoColor=white"/></a>
-  <a href="mailto:royokola3@gmail.com"><img src="https://img.shields.io/badge/Email-royokola3@gmail.com-0d9488?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/rauell_"><img src="https://img.shields.io/badge/Twitter-@rauell__-0d9488?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="https://github.com/rauell1"><img src="https://img.shields.io/badge/GitHub-rauell1-0d9488?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rauell1&label=Profile+Views&color=0d9488&style=flat-square" alt="Profile Views" />
+  <a href="https://royokola.me"><img src="https://img.shields.io/badge/Portfolio-royokola.me-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://rauell.systems"><img src="https://img.shields.io/badge/Venture-rauell.systems-111827?style=for-the-badge&logo=cloudflare&logoColor=f38020" alt="Rauell Systems" /></a>
+  <a href="https://www.linkedin.com/in/royotieno/"><img src="https://img.shields.io/badge/LinkedIn-royotieno-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:royokola3@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I am an Agricultural and Biosystems Engineer based in Nairobi, Kenya 🇰🇪.
-
-My work combines renewable energy engineering, electric mobility infrastructure, and data driven operations. I focus on turning technical plans into systems that run reliably in real conditions.
-
-At SafariCharge, I work across planning, design, deployment, and optimization of EV charging and power systems for growing urban and commercial demand.
-
-I also founded [Rauell Systems](https://rauell.systems), where I build AI decision systems for African infrastructure and knowledge work, and I design and ship web platforms for organisations and professionals across Kenya. Everything below runs on Cloudflare Workers.
+<p align="center"><b>Nairobi, Kenya 🇰🇪 · Open to opportunities and consulting</b></p>
 
 ---
 
-## 🚀 Recent Projects
+### 👋 Hi, I'm Roy
 
-### 1) Nairobi EV Charging Rollout
-- Planned multi site charger deployments with load balancing and phased grid upgrades.
-- Built commissioning and operations workflow for charger uptime and response handling.
-- Improved handoff quality between engineering and field teams.
+At **Roam Electric** I find, qualify and secure sites for EV charging and battery swap, from the first site visit to switch-on. Through **[Rauell Systems](https://rauell.systems)** I build the decision software that models them.
 
-### 2) Commercial and Industrial Solar Design Suite
-- Produced grid tied PV designs with yield modeling and financial sensitivity checks.
-- Standardized cable sizing, inverter matching, and protection selection inputs.
-- Reduced early stage redesign cycles through repeatable templates.
+The pattern in my work is always the same: take an unproven market, build the method, then deliver it with partners. Infrastructure is won or lost with the host, the utility and the regulator, so I spend as much time aligning landlords, fleet operators, KPLC, EPRA and EMAK as I do in spreadsheets and code. Then I build the tooling, so that siting and investment calls rest on data rather than instinct.
 
-### 3) Productive Use of Energy for Irrigation
-- Designed solar water pumping layouts for agricultural productivity improvement.
-- Compared storage and direct drive configurations across seasonal demand profiles.
-- Aligned pump sizing with site specific crop and water constraints.
-
-### 4) Charging Telemetry and Reliability Dashboarding
-- Built telemetry pipelines for charger status, power draw, and availability metrics.
-- Structured alert logic for fault patterns and low utilization windows.
-- Enabled faster diagnostics through clearer operational views.
-
----
-
-## 🌐 Live Platforms I Have Built
-
-### Products
-
-| Platform | What it does | Link |
-| :--- | :--- | :--- |
-| ⚡ **StimaPulse** | AI-assisted planning and decision platform for solar, battery storage and EV charging infrastructure across Africa | [stimapulse.com](https://stimapulse.com) |
-| 🧠 **Rauell Systems** | Company site for AI decision systems, with product evidence, case studies and an AI architecture lab | [rauell.systems](https://rauell.systems) |
-| 🎓 **Rauell AI Academy** | Practical, mobile-first AI courses, learning pathways, labs and progress tracking | [learn.rauell.systems](https://learn.rauell.systems) |
-| 🎯 **ScholarHub Africa** | Verified, fit-scored scholarships for African students, with an application tracker and weekly digest | [scholarhub-africa](https://scholarhub-africa.rauell.workers.dev) |
-| ⚖️ **BeiSawa** | Auditable value-for-money review agent for public procurement records, with human approval | [beisawa.rauell.systems](https://beisawa.rauell.systems) |
-| 🔌 **ChajiGrid Kenya** | Connects property owners with e-mobility companies to plan and host EV charging sites | [chaji-grid](https://chaji-grid.rauell.workers.dev) |
-
-### Organisations and businesses
-
-| Platform | What it does | Link |
-| :--- | :--- | :--- |
-| 💧 **Kenya Youth Parliament for Water** | Events, registrations, a 26-role member hierarchy and administration across 47 counties | [kypw.org](https://kypw.org) |
-| 🌱 **Greenwave Society** | Youth leadership and conservation site with a CMS, events and M-PESA membership payments | [greenwavesociety.org](https://greenwavesociety.org) |
-| 🔥 **Home Biogas Kenya** | Bilingual household biogas platform with a project explorer, configurator and site assessments | [home-biogas-kenya](https://home-biogas-kenya-platform.rauell.workers.dev/en) |
-| 🏗️ **Lalica Engineering** | Corporate website and lightweight CMS for an engineering firm in Nairobi | [lalica](https://lalica.rauell.workers.dev) |
-| 🏍️ **Robbybikes** | Motorcycle dealership inventory with live stock, WhatsApp enquiries and an admin console | [robbybikes](https://robbybikes.rauell.workers.dev) |
-| 🎧 **DJ Kimchi** | Official DJ site with mixes, videos, photos and bookings | [dj-kimchi.rauell.systems](https://dj-kimchi.rauell.systems) |
-| 🪵 **Alama Identity** | Wooden NFC business cards that open a digital profile with one tap | [business-cards](https://business-cards.rauell.workers.dev) |
-
-### Professional portfolios
-
-[Brian M. Burudi](https://brian-burudi.rauell.workers.dev) • [Stephen Ndichu](https://steve-ndichu.rauell.workers.dev) • [Doreen Muema](https://muemzyy.rauell.workers.dev) • [My own portfolio](https://royokola.me)
-
----
-
-## 🎯 What I Build
-
-| Area | Delivery Focus |
-| :--- | :--- |
-| ⚡ EV Infrastructure | Site design, load management, CPMS and OCPP integration |
-| ☀️ Solar PV Systems | Grid tied and off grid design, simulation, optimization |
-| 📊 Energy Analytics | Feasibility models, yield forecasting, performance tracking |
-| 🌾 Productive Use of Energy | Solar pumping design for agriculture and rural systems |
-| ⚙️ Technical Workflows | Engineering templates, QA checks, and deployment playbooks |
-| 🧠 AI Decision Systems | Deterministic engineering calculations first, AI reasoning second, humans decide |
-| 🖥️ Web Platforms | Fast, secure sites and portals on Cloudflare Workers with Postgres, auth and CMS tooling |
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Software and Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,cloudflare,postgres,git,github,vscode" />
-  </a>
-</p>
-
-`Pandas` • `NumPy` • `SQL` • `REST APIs` • `Data Telemetry` • `Cloudflare Workers` • `Neon` • `Supabase` • `Drizzle` • `Prisma` • `LLM integration`
-
-### ⚙️ Engineering Tools and Standards
-
-| Field | Tools and Standards |
-| :--- | :--- |
-| Solar Design | `PVsyst` • `Homer Pro` |
-| CAD and Modeling | `AutoCAD` • `SketchUp` |
-| EV Infrastructure | `OCPP` • `EVSE` |
-| Standards | `IEC` • `IEEE` • `KEBS` |
-
----
-
-## 📈 Delivery Highlights
-
-- Commissioning focused engineering for EV charging reliability
-- Data backed feasibility workflows for solar and mobility projects
-- Cross functional execution from site survey to operating system
-- 19 production web platforms migrated to Cloudflare Workers for faster, cheaper hosting
-
----
-
-## 📊 GitHub Stats and Visualizations
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rauell1&layout=compact&langs_count=6&theme=transparent&title_color=0d9488&icon_color=0d9488&text_color=8b949e&hide_border=true" height="165" alt="Top Languages" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=rauell1&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&background=00000000" height="165" alt="Roy's GitHub Streak"/>
-    </td>
+    <td align="center"><h2>74</h2><sub>Charging sites in pipeline<br/>since Jan 2026</sub></td>
+    <td align="center"><h2>22</h2><sub>Sites secured<br/>for construction</sub></td>
+    <td align="center"><h2>KES 50M+</h2><sub>Potential investment<br/>supported (EVChaja)</sub></td>
+    <td align="center"><h2>20</h2><sub>Live platforms I build<br/>and run</sub></td>
   </tr>
 </table>
 
+### 🔭 Right now
+
+- ⚡ **Charging Expansion Lead, Roam Electric.** Building Nairobi's charging and battery swap network: 74 prospective sites (29 personally sourced), 38 advanced to approval, 22 secured for construction, including a 7-station rollout with Be Energy.
+- 🧠 **Founder, Rauell Systems.** AI decision systems for African infrastructure and knowledge work, on one rule: calculate first, reason second, and leave the decision with a person.
+- 🎓 **MBA candidate, University of East London.** Adding commercial and financial depth to an engineering background (BSc Agricultural and Biosystems Engineering, JKUAT).
+
 ---
 
-## 🐍 Contribution Snake
+### 🚀 What I've shipped
+
+**Products (Rauell Systems)**
+
+| | Product | What it does |
+| :-: | :-- | :-- |
+| ⚡ | **[StimaPulse](https://stimapulse.com)** | Solar, battery and EV charging planning: tariff-aware dispatch, versioned scenarios, NPV, IRR and LCOE, and Word or PDF proposals. Formerly SafariCharge. |
+| ⚖️ | **[BeiSawa](https://beisawa.rauell.systems)** | Evidence-grounded value-for-money review of procurement records, with a citation on every finding and a human approver for every decision. |
+| 🎓 | **[Rauell AI Academy](https://learn.rauell.systems)** | Structured pathways, lessons and labs that teach engineers and builders to apply AI to real problems. |
+| 🎯 | **[ScholarHub Africa](https://scholarhub-africa.rauell.workers.dev)** | Verified, fit-scored scholarships for African students, with an application tracker and weekly digest. |
+| 🔌 | **[ChajiGrid Kenya](https://chaji-grid.rauell.workers.dev)** | A marketplace connecting property owners with e-mobility companies to plan and host charging sites. |
+| 📝 | **[AI CV Builder](https://cv-builder.rauell.systems)** | Tailors a CV and cover letter to a job description, with PDF export. |
+
+**Client platforms**
+
+| | Client | What I built |
+| :-: | :-- | :-- |
+| 💧 | **[Kenya Youth Parliament for Water](https://kypw.org)** | Membership, events, approvals and staff-managed content across all 47 counties, with a 26-role hierarchy. |
+| 🌱 | **[Greenwave Society](https://greenwavesociety.org)** | Youth leadership and conservation site with a CMS, events, galleries and M-PESA membership payments. |
+| 🔥 | **[Home Biogas Kenya](https://home-biogas-kenya-platform.rauell.workers.dev/en)** | Bilingual (English and Kiswahili) biogas platform with a project explorer, configurator and site assessments. |
+| 🏗️ | **[Lalica Engineering](https://lalica.rauell.workers.dev)** | Corporate website and lightweight CMS for a Nairobi engineering firm. |
+| 🏍️ | **[Robbybikes](https://robbybikes.rauell.systems)** | Motorcycle dealership inventory with live stock, WhatsApp enquiries and an admin console. |
+| 🎧 | **[DJ Kimchi](https://dj-kimchi.rauell.systems)** | Official DJ site with mixes, videos, photos and bookings. |
+| 🪵 | **[Alama Identity](https://business-cards.rauell.workers.dev)** | Wooden NFC business cards that open a digital profile with one tap. |
+
+**Portfolios:** [Brian M. Burudi](https://brian-burudi.rauell.workers.dev) · [Stephen Ndichu](https://steve-ndichu.rauell.workers.dev) · [Doreen Muema](https://muemzyy.rauell.workers.dev) · [my own](https://royokola.me)
+
+> Every platform above runs on **Cloudflare Workers**, with Postgres on Neon or Supabase, uptime monitoring and documented security and contribution policies.
+
+---
+
+### 🧭 The road so far
+
+| When | Role | Highlights |
+| :-- | :-- | :-- |
+| **2026 to now** | Charging Expansion Lead, **Roam Electric** | Built the charging site pipeline from nothing; weighted site scoring on grid capacity, rider traffic and security; KPLC meter and e-mobility tariff applications. |
+| **2026 to now** | Founder and full-stack engineer, **Rauell Systems** | StimaPulse, BeiSawa, the AI Academy and client platforms for KYPW and Greenwave. |
+| **2025** | Junior Sales Consultant, **Roam Electric** | First partner locations onboarded; solar hybrid and EV feasibility studies across Nairobi and Kiambu; 10+ client trainings. |
+| **2025** | Infrastructure Engineer, **EVChaja** | Scoped 3 investment-ready charging projects whose reports supported KES 50M+ in potential investment; EPRA and EMAK compliance mapping. |
+| **2024** | Technical Sales Engineer, **Frisco Engineering** | 10+ solar PV and backup systems (KES 3M+) designed and delivered; 15+ energy audits; PVsyst and PV*SOL modelling. |
+| **2023 to 2024** | Technical Sales Engineer, **HomeBiogas Kenya** | 30% fewer system failures through structured after-sales training; 5+ local partnerships. |
+
+---
+
+### 🛠️ Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,cloudflare,postgres,supabase,git,github,vscode&perline=12" alt="Languages and tools" />
+</p>
+
+| Field | Tools |
+| :-- | :-- |
+| **Software** | TypeScript, Next.js, React, Python, Drizzle, Prisma, Neon, Supabase, Cloudflare Workers, LLM integration (NVIDIA NIM, OpenAI, Anthropic, Gemini) |
+| **Energy design** | PVsyst, PV*SOL, Homer Pro, AutoCAD, SketchUp |
+| **E-mobility** | Site qualification and scoring, OCPP, EVSE, load management, KPLC tariff applications |
+| **Standards and regulators** | IEC, IEEE, KEBS, EPRA, EMAK |
+
+---
+
+### 📊 GitHub activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rauell1/rauell1/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rauell1&layout=compact&langs_count=6&theme=transparent&title_color=0d9488&icon_color=0d9488&text_color=8b949e&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=rauell1&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&background=00000000" height="165" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rauell1/rauell1/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://royokola.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0d9488?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:royokola3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/roy-otieno-60b190174/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Profile-0d9488?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/rauell_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-Follow-0d9488?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-  <a href="https://github.com/rauell1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-rauell1-0d9488?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <b>Working on charging, clean energy or decision tools in Africa? Let's talk.</b><br/><br/>
+  <a href="https://royokola.me"><img src="https://img.shields.io/badge/Portfolio-0d9488?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/royotieno/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/rauell_"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:royokola3@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rauell1&label=Profile+views&color=0d9488&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f766e&height=100&section=footer" alt="" />
 </p>
