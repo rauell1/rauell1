@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=860&lines=Charging+Expansion+Lead+%40+Roam+Electric;Founder+%40+Rauell+Systems;Calculate+first.+Reason+second.+People+decide.;Building+where+there+is+no+playbook" alt="Typing summary" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=860&lines=Founder+%40+Rauell+Systems;Calculate+first.+Reason+second.+People+decide.;Decision+software+for+African+infrastructure;Building+where+there+is+no+playbook" alt="Typing summary" />
 </p>
 
 <p align="center">
@@ -74,16 +74,15 @@ Rauell Systems runs on one rule: **calculate first, reason second, and leave the
 
 ---
 
-### 🧭 The road so far
+### 🧭 How I build
 
-| When | Role | Highlights |
-| :-- | :-- | :-- |
-| **2026 to now** | Charging Expansion Lead, **Roam Electric** | Built the charging site pipeline from nothing; weighted site scoring on grid capacity, rider traffic and security; KPLC meter and e-mobility tariff applications. |
-| **2026 to now** | Founder and full-stack engineer, **Rauell Systems** | StimaPulse, BeiSawa, the AI Academy and client platforms for KYPW and Greenwave. |
-| **2025** | Junior Sales Consultant, **Roam Electric** | First partner locations onboarded; solar hybrid and EV feasibility studies across Nairobi and Kiambu; 10+ client trainings. |
-| **2025** | Infrastructure Engineer, **EVChaja** | Scoped 3 investment-ready charging projects whose reports supported KES 50M+ in potential investment; EPRA and EMAK compliance mapping. |
-| **2024** | Technical Sales Engineer, **Frisco Engineering** | 10+ solar PV and backup systems (KES 3M+) designed and delivered; 15+ energy audits; PVsyst and PV*SOL modelling. |
-| **2023 to 2024** | Technical Sales Engineer, **HomeBiogas Kenya** | 30% fewer system failures through structured after-sales training; 5+ local partnerships. |
+| | Principle | In practice |
+| :-: | :-- | :-- |
+| 🧮 | **Calculate first** | Engineering and financial maths (dispatch, NPV, IRR, LCOE, scoring) runs in deterministic code that gives the same answer every time. |
+| 🤖 | **Reason second** | AI reads the documents, explains the numbers and drafts the findings, with a source behind every claim. |
+| 🧑‍⚖️ | **People decide** | Software recommends; a named person approves. Nothing consequential happens on autopilot. |
+| 🏗️ | **Built for where it runs** | Fast on mid-range phones and patchy networks, cheap to host, secure by default, documented so others can take it over. |
+| 🔁 | **Ship, measure, refine** | Live early, monitored around the clock, improved from real use rather than guesses. |
 
 ---
 
